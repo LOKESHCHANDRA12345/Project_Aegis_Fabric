@@ -1,0 +1,66 @@
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Database Files (generated)
+*.db
+*.sqlite
+*.sqlite3
+
+# Cache/Optimization Files (generated)
+optimized_cache/
+*.parquet
+
+# Temporary Files
+*.tmp
+*.temp
+*.log
+*.pid
+
+# OS Files
+Thumbs.db
+.DS_Store
+*.exe
+*.dll
+*.so
+
+# Environment Variables
+.env
+.env.local
+.env.*.local
+
+# Distribution Files
+dist/
+build/
+*.egg-info/
+
+# IDE Settings
+.vscode/settings.json
+.idea/
+*.iml
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Project-specific (keep source, exclude generated)
+!enterprise_fabric.db  # Include for reference
+!optimized_cache/     # Include directory structure
