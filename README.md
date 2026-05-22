@@ -415,11 +415,7 @@ This is a proof-of-concept project. To extend it:
 4. **Data compression is powerful** - Parquet achieves 80% reduction through smart encoding
 5. **Columnar storage wins for analytics** - Only read columns you need
 
----
 
-## 📄 License
-
-This project is open source and available for educational and commercial use.
 
 ---
 
