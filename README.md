@@ -143,26 +143,7 @@ python optimizer_agent.py
 
 ---
 
-## 📁 Project Structure
 
-```
-Project_Aegis_Fabric/
-├── data_fabric.py              # Generate ledger data
-├── optimizer_agent.py          # AI-powered optimization (requires Ollama)
-├── create_cache.py             # Manual cache creation
-├── benchmark.py                # Performance comparison
-├── run_all.py                  # Master script (runs all stages)
-├── enterprise_fabric.db        # DuckDB database (generated)
-├── optimized_cache/
-│   └── index.parquet          # Pre-computed cache (generated)
-├── README.md                   # This file
-├── PROJECT_PRESENTATION.md     # Detailed presentation guide
-├── TECHNICAL_DEEP_DIVE.md      # Code explanation & reasoning
-├── TOOLS_COMPARISON.md         # Tool selection rationale
-└── QUICK_SUMMARY.txt          # Quick reference guide
-```
-
----
 
 ## 💡 Key Concepts
 
@@ -194,35 +175,6 @@ Project_Aegis_Fabric/
 
 ---
 
-## 📖 Documentation
-
-### For Different Audiences
-
-**Business Leaders** → Read: `PROJECT_PRESENTATION.md`
-- Executive summary
-- Real-world use cases
-- ROI analysis
-- Future applications
-
-**Data Engineers** → Read: `TECHNICAL_DEEP_DIVE.md`
-- Detailed code explanation
-- Why/How for each component
-- Architecture decisions
-- Line-by-line code walkthrough
-
-**Tech Evaluators** → Read: `TOOLS_COMPARISON.md`
-- Tool comparisons
-- Why each tool was chosen
-- Alternatives considered
-- Cost/performance analysis
-
-**Quick Reference** → Read: `QUICK_SUMMARY.txt`
-- One-page overview
-- Key metrics
-- How to run
-- When to use
-
----
 
 ## 🔄 How It Works (Detailed Flow)
 
