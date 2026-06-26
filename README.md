@@ -373,7 +373,7 @@ This is a proof-of-concept project. To extend it:
 
 ## 👨‍💻 Author
 
-**Lokesh Chandra**
+** Chandra**
 - GitHub: [@LOKESHCHANDRA12345](https://github.com/LOKESHCHANDRA12345)
 - Project: AI-Powered Database Query Optimization
 
